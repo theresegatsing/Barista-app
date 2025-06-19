@@ -6,23 +6,11 @@
 
 ## 🎥 Walkthrough Video
 
-<!-- 🔁 Choose ONE of the two options below -->
 
-### ✅ Option A: (Recommended – external link)
 
-▶️ [Watch the Demo Video](https://your-link-here.com)  
-_*(Replace with your YouTube, Google Drive, or Loom link)*_
+<img src='/public/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
----
 
-### 🔄 Option B: Local Video (for local markdown preview only)
-
-<video controls width="100%">
-  <source src="./Walkthrough.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-> ℹ️ GitHub will not display the video above — it's only for local preview in markdown editors.
 
 ---
 
