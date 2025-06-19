@@ -1,12 +1,48 @@
-# React + Vite
+# ☕ Barista App – "On My Grind"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**On My Grind** is a fun and interactive React app where users guess the ingredients of randomly generated coffee drinks. This project was built using **React + Vite** and focuses on clean state management, reusable components, and user interaction.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎥 Walkthrough Video
 
-## Expanding the ESLint configuration
+<!-- 🔁 Choose ONE of the two options below -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ✅ Option A: (Recommended – external link)
+
+▶️ [Watch the Demo Video](https://your-link-here.com)  
+_*(Replace with your YouTube, Google Drive, or Loom link)*_
+
+---
+
+### 🔄 Option B: Local Video (for local markdown preview only)
+
+<video controls width="100%">
+  <source src="./Walkthrough.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+> ℹ️ GitHub will not display the video above — it's only for local preview in markdown editors.
+
+---
+
+## 🚀 Features
+
+- 🔀 Randomly generated drink names from a JSON file
+- 🧠 User guesses drink ingredients (temperature, milk, syrup, blended)
+- 📦 Dynamic rendering using `useState`, `map()`, and reusable components
+- 🎨 Clean and simple UI with custom styles
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- JavaScript (ES6+)
+- CSS
+- JSON data
+
+---
+
+
